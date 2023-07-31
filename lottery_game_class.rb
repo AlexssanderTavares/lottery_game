@@ -50,8 +50,3 @@ class LotteryGame
     end
 end
 
-lottery_game = LotteryGame.new
-
-print "Enter your name: "
-name = gets.chomp.to_s
-lottery_game.game_init(name)
