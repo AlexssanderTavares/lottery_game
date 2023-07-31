@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rubysl-securerandom (2.0.0)
+    securerandom (0.2.2)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  rubysl-securerandom
+  securerandom
+
+BUNDLED WITH
+   2.4.17
